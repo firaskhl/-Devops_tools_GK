@@ -1,0 +1,14 @@
+{
+  "name": "devops_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tip.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Firas Khlil",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
